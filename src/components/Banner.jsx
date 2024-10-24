@@ -17,7 +17,7 @@ export const Banner = () => {
         </p>
         <a
           href="#contact"
-          className="bg-amber-400 text-black font-semibold px-5 md:px-8 py-3 tracking-wide md:text-lg rounded-md shadow-md border-2 border-amber-400 hover:bg-transparent/50 hover:text-white duration-300"
+          className="bg-amber-400 outline-none text-black font-semibold px-5 md:px-8 py-3 tracking-wide md:text-lg rounded-md shadow-md border-2 border-amber-400 hover:bg-transparent/50 hover:text-white duration-300"
         >
           Contact Us Today
         </a>
