@@ -16,7 +16,7 @@ export const Navbar = () => {
             <a href="#">Home</a>
           </li>
           <li className="font-semibold text-sm md:text-xl duration-300 active:scale-90 border-2 border-amber-800 rounded-md px-3 md:px-5 py-1 hover:bg-white/85">
-            <a href="#">Contact Us</a>
+            <a href="#contact">Contact Us</a>
           </li>
         </ul>
       </div>

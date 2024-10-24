@@ -5,3 +5,14 @@
 html {
   scroll-behavior: smooth;
 }
+
+/*         'hero-img': "url('./bannerImg.jpg')",
+        'mobile-hero-img': "url('./bannerImg-mobile.jpg')", */
+#banner {
+  background: url("./../public/bannerImg-mobile.jpg");
+}
+@media screen and (min-width: 768px) {
+  #banner {
+    background: url("./../public/bannerImg.jpg");
+  }
+}

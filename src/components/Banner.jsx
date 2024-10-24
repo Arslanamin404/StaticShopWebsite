@@ -1,7 +1,8 @@
 export const Banner = () => {
   return (
     <div
-      className={`relative bg-cover bg-center px-5 py-36 md:px-36 md:py-48 bg-mobile-hero-img md:bg-hero-img`}
+    id="banner"
+      className={`relative bg-cover bg-center px-5 py-36 md:px-36 md:py-48`}
     >
       <div className="absolute inset-0 bg-black bg-opacity-35"></div>
       <div className="relative container mx-auto text-center leading-10">
