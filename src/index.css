@@ -9,7 +9,7 @@ html {
 /*         'hero-img': "url('./bannerImg.jpg')",
         'mobile-hero-img': "url('./bannerImg-mobile.jpg')", */
 #banner {
-  background: url("./../public/bannerImg-mobile.jpg");
+  background: url("./../public/bannerImg-mobile-backup.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
