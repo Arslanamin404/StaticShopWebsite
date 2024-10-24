@@ -10,9 +10,14 @@ html {
         'mobile-hero-img': "url('./bannerImg-mobile.jpg')", */
 #banner {
   background: url("./../public/bannerImg-mobile.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 @media screen and (min-width: 768px) {
   #banner {
-    background: url("./../public/bannerImg.jpg");
+    background: url("./../public/bannerImg-backup.jpg");
+    background-size: cover;
+    background-position: center;
   }
 }

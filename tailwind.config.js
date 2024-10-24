@@ -6,10 +6,6 @@ export default {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        'hero-img': "url('./bannerImg.jpg')",
-        'mobile-hero-img': "url('./bannerImg-mobile.jpg')",
-      }
     },
   },
   plugins: [],
