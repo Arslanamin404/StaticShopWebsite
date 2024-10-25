@@ -2,7 +2,7 @@ import React from "react";
 
 export const Navbar = () => {
   return (
-    <nav className="py-3 md:py-4 flex items-center justify-between bg-amber-500 shadow-md shadow-yellow-700">
+    <nav className="sticky top-0 z-50 py-3 md:py-4 flex items-center justify-between bg-amber-500 shadow shadow-slate-800">
       <div>
         <a href="#" className="outline-none">
           <h1 className="font-extrabold uppercase px-3 md:px-6 text-lg md:text-3xl tracking-wider text-[#2b2a2a]">
