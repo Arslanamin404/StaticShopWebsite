@@ -13,7 +13,7 @@ export const Contact = () => {
         Contact Us
       </h1>
       <div className="flex flex-col md:flex-row justify-center items-center gap-10 mt-5 md:mt-10 md:gap-16">
-        <div className=" flex items-start justify-center flex-col gap-y-5 md:rounded-lg text-white bg-gray-800 px-5 md:px-10 md:py-8 py-6 ">
+        <div className=" flex items-start justify-center flex-col gap-y-5 rounded-lg text-white bg-gray-800 px-5 md:px-10 md:py-8 py-6 ">
           <h1 className=" text-2xl mb-3 md:text-3xl font-bold">
             Visit Our Shop
           </h1>

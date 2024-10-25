@@ -4,10 +4,10 @@ export const Banner = () => {
     id="banner"
       className={`relative  px-5 py-36 md:p-36`}
     >
-      <div className="absolute inset-0 bg-black bg-opacity-35"></div>
+      <div className="absolute inset-0 bg-black bg-opacity-45 md:bg-opacity-35"></div>
       <div className="relative container mx-auto text-center leading-10">
         <h1 className="text-4xl md:text-6xl font-bold mb-5 md:mb-8 text-gray-200">
-          <span className="font-extrabold  uppercase text-amber-400 tracking-wider mr-1">
+          <span className="font-extrabold  uppercase text-amber-500 md:text-amber-400 tracking-wider mr-1">
             AR Traders
           </span>
           -Your Trusted Source for Genuine JCB Spare Parts
