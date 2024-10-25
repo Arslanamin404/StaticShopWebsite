@@ -8,8 +8,8 @@ import { IoIosTime } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
 export const Contact = () => {
   return (
-    <div id="contact" className="bg-amber-500 py-10 px-5 md:py-12 md:px-16">
-      <h1 className="text-3xl md:text-6xl font-extrabold text-center text-gray-800">
+    <div id="contact" className="bg-amber-500 pt-5 pb-10 px-5 md:py-12 md:px-16">
+      <h1 className="text-4xl md:text-6xl font-extrabold text-center text-gray-800 mt-12">
         Contact Us
       </h1>
       <div className="flex flex-col md:flex-row justify-center items-center gap-10 mt-5 md:mt-10 md:gap-16">
